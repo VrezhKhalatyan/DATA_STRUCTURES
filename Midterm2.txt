@@ -1,0 +1,5 @@
+Vrezh Khalatyan
+
+The strategy of the program will implement a Comparator interface using a compare() method, which is parameterized with to values of the same data-type. It will return a (-) value if element 1 is < element 2, 
+	a (+) value if element 1 is > element 2, and a (0) if both elements are equal. Besides the Comparator interface, In another class the elements would be added to the 
+	set. While the Set size is not equal to zero, the set calls the remove() method.
